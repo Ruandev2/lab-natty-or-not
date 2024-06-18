@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Dois Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
@@ -38,8 +38,6 @@ Este projeto foi uma experiência incrível em contar histórias visuais, utiliz
         href="https://www.linkedin.com/in/ruan-rodriguesdev/">
         LinkedIn
     </a>
-   
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
